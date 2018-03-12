@@ -12,7 +12,7 @@ body {
 	width: 100%;
 	font-family: Montreal-Serial-Bold;
 	font-size: 32px;
-	color: #b1b1b1;
+	color: #B1B1B1;
 }
 
 .container {
@@ -37,7 +37,7 @@ body {
     height: 400px;
     width: 400px;
 	border-radius: 200px;
-	background-color: #94ba66;
+	background-color: #94BA66;
 }
 
 .cir-lightblue {
@@ -47,7 +47,7 @@ body {
   	width: 0;
 	border-top: 400px solid transparent;
   	border-left: 200px solid transparent;
-  	border-right: 200px solid #298fb0;
+  	border-right: 200px solid #298FB0;
 	border-radius: 50%;
 }
 
@@ -65,7 +65,7 @@ body {
 .tri-orange {
     position: relative;
 	z-index: 3;
-	background-color: #f27324;
+	background-color: #F27324;
     top: 140px;
     left: 140px;
 	width: 120px;
@@ -75,7 +75,7 @@ body {
 .squ-left {
     position: relative;
     z-index: 4;
-    background-color: #ffffffff;
+    background-color: #FFFFFF;
     left: 84px;
     top: -171px;
     width: 80px;
@@ -90,7 +90,7 @@ body {
 .squ-right {
        position: relative;
        z-index: 5;
-       background-color: #ffffffff;
+       background-color: #FFFFFF;
         left: 225px;
         top: -571px;
        width: 80px;
@@ -104,7 +104,7 @@ body {
 .squ-bottom {
     position: relative;
     z-index: 6;
-    background-color: #ffffffff;
+    background-color: #FFFFFF;
     left: 100px;
     top: -720px;
     width: 200px;
